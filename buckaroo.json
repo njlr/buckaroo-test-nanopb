@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-nanopb",
+  "dependencies": {
+    "nanopb/nanopb": "0.3.9",
+    "google/gtest": "1.8.0"
+  }
+}
